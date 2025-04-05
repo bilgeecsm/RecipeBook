@@ -22,7 +22,7 @@ Yukarıdaki tabloda, 10 adet yumurtamız olduğunda yapabileceğimiz kahvaltı k
 ![image](https://github.com/user-attachments/assets/a90f4c1f-b5d4-4590-b2f3-e7d3246b659c)
 
 Fig.4: İsme göre arama
-Burada ise tablonun üzerindeki arama çubuğuna patates yazılarak patatesli tarifler listelenmiştir. Ayrıca bu tarifler maliyetinin aşağıya doğru artacağı şekilde gösterilmiştir.
+Burada tablonun üzerindeki arama çubuğuna patates yazılarak patatesli tarifler listelenmiştir. Ayrıca bu tarifler maliyetinin aşağıya doğru artacağı şekilde gösterilmiştir.
 
 ![image](https://github.com/user-attachments/assets/9575f392-c3bc-4195-a4e6-3e779b83e016)
 
